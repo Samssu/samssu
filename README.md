@@ -1,50 +1,74 @@
-<h1 align="center">Hi 👋, I'm Muhammad Samsu Hidayatullah</h1>
-<h3 align="center">Fullstack Web Developer | Next.js | Express.js</h3>
+<h1 align="center">👋 Hi, I'm Muhammad Samsu Hidayatullah</h1>
+<h3 align="center">🚀 Fullstack Web Developer | Turning Ideas Into Code</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Student at **Universitas Bina Darma**
-- 💻 Focus on **Web Development (Frontend & Backend)**
-- 🔐 Interested in **Web Security (JWT, CAPTCHA, Auth)**
-- 🚀 Currently building **Role-Based Web Applications**
+## 🧠 About Me
+💻 Fullstack Web Developer who loves building **clean, secure, and scalable web applications**  
+🎓 Informatics Student  
+🔐 Interested in **Web Security, Authentication & Role-Based Systems**  
+☕ Debugging with coffee, fixing bugs I accidentally created  
+
+> *“First, solve the problem. Then, write the code.”*
 
 ---
 
-### 🛠 Tech Stack
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Express](https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,express,nodejs,mongodb,tailwind,js,ts,git" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
-- 🔐 **Sistem Pendaftaran Magang**
-  - Role: Superadmin, Admin, Mentor, Peserta
-  - Login JWT + CAPTCHA
-  - Dashboard Role Based
-
-- 📊 **Admin Dashboard**
-  - Statistik & Chart
-  - Manajemen data peserta
-  - Responsive UI
+## 🚀 What I’m Building
+- 🔐 **Role-Based Web Applications**
+- 📊 **Admin Dashboard Systems**
+- 🧾 **Registration & Management Platforms**
+- 🛡️ Secure Login using **JWT & CAPTCHA**
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default)
+## 📌 Featured Projects
+✨ **Sistem Pendaftaran Magang**
+- Multi-role: Superadmin, Admin, Mentor, Peserta
+- Secure Auth (JWT + CAPTCHA)
+- Clean UI & Dashboard
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact)
+✨ **Admin Dashboard**
+- Data management
+- Chart & statistics
+- Responsive design
 
 ---
 
-### 📫 Contact
-- 📧 Email: your-email@gmail.com
-- 🌐 GitHub: https://github.com/USERNAME_KAMU
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=transparent" />
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and projects*
+## 🎯 Goals
+- 📈 Become a professional **Fullstack Developer**
+- 🌍 Build real-world impactful applications
+- 🤝 Collaborate & learn with other developers
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: your-email@gmail.com  
+- 🌐 GitHub: https://github.com/USERNAME_KAMU  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star ⭐
+</p>
