@@ -47,11 +47,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samssu&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samssu&layout=compact&theme=transparent" />
 </p>
 
 ---
