@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Muhammad Samsu Hidayatullah</h1>
-<h3 align="center">🚀 Fullstack Web Developer | Turning Ideas Into Code</h3>
+<h3 align="center">🚀 Fullstack Web Developer | Turning Ideas Into Secure Web Apps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Samssu&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ## 🧠 About Me
 💻 Fullstack Web Developer who loves building **clean, secure, and scalable web applications**  
 🎓 Informatics Student  
-🔐 Interested in **Web Security, Authentication & Role-Based Systems**  
-☕ Debugging with coffee, fixing bugs I accidentally created  
+🔐 Focused on **Authentication, Web Security & Role-Based Systems**  
+☕ Turning coffee into code & fixing bugs I created myself  
 
 > *“First, solve the problem. Then, write the code.”*
 
@@ -25,48 +25,53 @@
 ---
 
 ## 🚀 What I’m Building
-- 🔐 **Role-Based Web Applications**
-- 📊 **Admin Dashboard Systems**
-- 🧾 **Registration & Management Platforms**
-- 🛡️ Secure Login using **JWT & CAPTCHA**
+- 🔐 Secure Login Systems (JWT + CAPTCHA)
+- 📊 Admin & Role-Based Dashboards
+- 🧾 Registration & Management Platforms
+- 🌐 Modern Web Applications (Next.js)
 
 ---
 
 ## 📌 Featured Projects
 ✨ **Sistem Pendaftaran Magang**
-- Multi-role: Superadmin, Admin, Mentor, Peserta
-- Secure Auth (JWT + CAPTCHA)
-- Clean UI & Dashboard
+- Multi-role system: Superadmin, Admin, Mentor, Peserta
+- Secure authentication using JWT & CAPTCHA
+- Clean UI & responsive dashboard
 
 ✨ **Admin Dashboard**
-- Data management
-- Chart & statistics
-- Responsive design
+- Data management & statistics
+- Chart & visualization
+- Responsive & modern UI
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samssu&show_icons=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samssu&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samssu&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samssu&layout=compact" />
+</p>
 
 ---
 
 ## 🎯 Goals
-- 📈 Become a professional **Fullstack Developer**
-- 🌍 Build real-world impactful applications
-- 🤝 Collaborate & learn with other developers
+- 📈 Become a professional **Fullstack Web Developer**
+- 🔐 Build secure & scalable applications
+- 🤝 Collaborate with other developers
+- 🌍 Create real-world impactful projects
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: Hidden 
-- 🌐 GitHub: https://github.com/samssu
+- 📧 Email: HIDDEN
+- 🌐 GitHub: https://github.com/Samssu  
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star ⭐
+  ⭐ If you like my work, consider giving a star ⭐  
+  <br/>
+  Thanks for visiting my profile 🚀
 </p>
