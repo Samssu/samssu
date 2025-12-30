@@ -46,13 +46,11 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samssu&show_icons=true&theme=transparent" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samssu&layout=compact&theme=transparent" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samssu&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samssu&layout=compact)
+
 
 ---
 
