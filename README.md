@@ -64,8 +64,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@gmail.com  
-- 🌐 GitHub: https://github.com/USERNAME_KAMU  
+- 📧 Email: Hidden 
+- 🌐 GitHub: https://github.com/samssu
 
 ---
 
