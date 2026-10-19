@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on building modern web applications and personal projects.<br>
+👯 I’m looking to collaborate on full-stack web development and open-source projects.<br>
+🤝 I’m looking for help with advanced system architecture and scalable applications.<br>
+🌱 I’m currently learning Next.js, TypeScript, DevOps, and AI-powered development.<br>
+💬 Ask me about React.js, Next.js, Node.js, Express.js, databases, and IT Support.<br>
+⚡ Fun fact: I enjoy turning complex problems into simple, efficient digital solutions!
 
 
 # 💻 Tech Stack:
